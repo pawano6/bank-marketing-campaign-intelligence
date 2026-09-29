@@ -120,7 +120,6 @@ project/
 ├── tests/
 │   └── ...
 │
-├── .env
 ├── .env.example
 ├── .gitignore
 ├── README.md
@@ -148,8 +147,8 @@ project/
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd project
+git clone https://github.com/pawano6/bank-marketing-campaign-intelligence.git
+cd bank-marketing-campaign-intelligence
 ```
 
 Create and activate a virtual environment:
